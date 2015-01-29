@@ -1,3 +1,10 @@
+/*Code is a simple simulation of the Birthday Problem, in order to calculate the average number of people needed to be asked 
+to have two with the same Birthday
+
+Written by Chet Michals
+Created 01/15/2015
+*/
+
 #include <iostream>
 #include <chrono>
 #include <random>
