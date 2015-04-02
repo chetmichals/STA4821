@@ -4,7 +4,7 @@ The implemention here shows you can use the mathamatical fomula to get a percise
 give answers that are slightly off
 
 Writen by Chet Michals, 01/22/2015
-/*
+*/
 
 #include <cmath>
 #include <iostream>
